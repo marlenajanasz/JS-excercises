@@ -1,18 +1,16 @@
 
 function showName(number){
-	if(number[0]==='4' && number.length === 16 || number.length === 13){
+  if(('51'<=number.substring(0,2)<='55' && number.length == 16) || ('2221'<=number.substring(0,4)<='2720' && number.length == 16)){
+	console.log('to master card!');
+	}
+  else if((number.length == 13 || number.length == 16) && number[0] === '4'){
 	console.log('to visa!');
 	} 
-	else if(number[0]==='3' && number.length === 15){
+  else if((number.substring(0,2)==='34' || number.substring(0,2)==='37') && number.length == 15){
 	console.log('to amex!')
 	}
-	else if((number[0]==='5' && number.length === 16) || (number[0]==='2' && number.length === 16)){
-	console.log('to master card!')
-	}
-	else {
-	console.log('to żadna z powyższych')
-	}
-}
+  else {console.log('to inna karta')};
+};
 
-//z liczbami nie działa - przy liczbach nie można odwołać się do numeru indeksu?
+//visa z 16 cyframi nie działa
 
