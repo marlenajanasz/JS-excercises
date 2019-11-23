@@ -40,3 +40,5 @@ console.log("Your name is", name)
   - MasterCard numbers either start with the numbers 51 through 55 or with the numbers 2221 through 2720. All have 16 digits.
   - American Express card numbers start with 34 or 37 and have 15 digits.
 (Skorzystaj z funkcji w Js)
+
+9. wyszukiwanie binarne: https://pl.khanacademy.org/computing/computer-science/algorithms#binary-search
