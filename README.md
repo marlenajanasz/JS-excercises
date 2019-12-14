@@ -41,6 +41,8 @@ console.log("Your name is", name)
   - American Express card numbers start with 34 or 37 and have 15 digits.
 (Skorzystaj z funkcji w Js)
 
-9. Sprawdzanie pól formularza przed wysłaniem
+8. Sprawdzanie pól formularza przed wysłaniem
+
+9. Sortowanie tablicy po kolumnach
 
 10. wyszukiwanie binarne: https://pl.khanacademy.org/computing/computer-science/algorithms#binary-search
