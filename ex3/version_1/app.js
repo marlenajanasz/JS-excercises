@@ -14,8 +14,7 @@ function showArray(){
 			}
 			else if (array[i] !== array2[i]) {
 				//console.log('false')
-				output_array.push('false');
-				
+				output_array.push('false');	
 			}
 	}
 	console.log(output_array);
