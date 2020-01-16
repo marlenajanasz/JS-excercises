@@ -45,9 +45,7 @@
 
 })()
 
-/* PYTANIA
--czy w tym zadaniu (e) w funkcji anonimowej jest tylko po to aby wykonać preventDefault?
--czy ify z pętli i funkcje isNotEmpty, isAtLeast i isEmail działają w poniższy sposób?
+/*
 	1. field jest przekazywany do tych trzech funkcji
 	2. jeśli (na przykładzie funkcji isNotEmpty) pole formularza jest
 	wypełnione (field.value !=="") to funkcja zwraca true
