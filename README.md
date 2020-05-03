@@ -7,7 +7,6 @@
   - Wyświetl tylko kropkę
   - Wyświetl od połowy tylko co trzecią literę cytatu
   - Wyświetl ‘Hnsyi h is hpe ntebo fwso.’
-  - Wyświetl cały cytat odwrotnie
   - Zamień wisdom na słowo friendship
 
 3. Palindrom to wyrażenie brzmiące tak samo czytane od lewej do prawej i od prawej do lewej np.: Kobyła ma mały bok. Utwórz tablicę zawierającą kilka słów i całych zdań. Następnie sprawdź czy wprowadzone wyrażenia są palindromem. Wynikiem sprawdzania powinna być nowa tablica zawierająca wyrażenia true/false w zależności od sprawdzenia np.
