@@ -39,4 +39,3 @@
 
 })();
 
-//czemu a.children to Jan i Dariusz, a b.children to Maria i Jan? a nie odwrotnie np, albo nie pojedynczo rzędy
